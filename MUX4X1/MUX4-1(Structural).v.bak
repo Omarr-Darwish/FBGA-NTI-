@@ -1,0 +1,32 @@
+module mux2
+(
+input  wire [1:0] d,
+input  wire s,
+
+output reg y
+);
+always @(*)
+begin
+   if (s == 0)
+      y = d[0];
+   else 
+      y = d[1];
+end
+endmodule
+
+module mux4_st
+(
+  input  wire [3:0] d,
+  input  wire [1:0] s,
+
+  output wire y
+);
+
+   wire mux1, mux2;
+
+   mux2 mx1 (.y(mux1), .d({d[0],d[2]}), .s(s[0]));
+   mux2 mx2 (.y(mux2), .d({d[1],d[3]}), .s(s[0]));
+   mux2 mx3 (.y(y), .d({mux1,mux2}), .s(s[1]));
+
+endmodule
+
