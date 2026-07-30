@@ -29,12 +29,21 @@ The MUX is implemented in four different ways to show different levels of abstra
 This style builds the circuit from scratch using basic logic primitives (AND, OR, NOT).
 
 
+<img width="406" height="302" alt="image" src="https://github.com/user-attachments/assets/b7167140-c9d9-4f1d-b451-a0c8cb865b75" />
+
+
 ### C. Structural Modeling
 This style builds the circuit hierarchically by connecting three smaller 2-to-1 MUX modules together.
+
+
+<img width="590" height="488" alt="image" src="https://github.com/user-attachments/assets/09503412-b329-4976-8ee7-31920f8a3c66" />
 
 
 ---
 
 ## 3. Simulation Waveform
 Finally, here is the simulation waveform to verify that all four designs work correctly and produce the same expected output.
+
+
+<img width="1482" height="144" alt="Screenshot 2026-07-30 131312" src="https://github.com/user-attachments/assets/0e5163b7-0a38-441c-a673-ff70ad86231f" />
 
