@@ -12,7 +12,7 @@ A simulation waveform is also included below to verify that all designs work cor
 <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/f544d6f2-81b3-4e15-bfb7-d70da3092767" />
 
 * **Structural:** Connects pre-built modules (two Half Adders and an OR gate) together.
-  <img width="488" height="247" alt="image" src="https://github.com/user-attachments/assets/7c6c6611-75db-434e-8cf0-f04cd5098dcc" />
+<img width="488" height="247" alt="image" src="https://github.com/user-attachments/assets/7c6c6611-75db-434e-8cf0-f04cd5098dcc" />
 
 
 ## Simulation Waveform
