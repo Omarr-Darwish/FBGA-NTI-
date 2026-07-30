@@ -1,6 +1,8 @@
 # Full Adder in Verilog - 4 Different Styles
 
 This repository contains a simple Full Adder circuit implemented using four different Verilog modeling styles. The goal of this project is to understand the different ways to describe hardware in Verilog. 
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/46a25ef2-beb2-4891-b775-c0e580fb466d" />
+
 
 A simulation waveform is also included below to verify that all designs work correctly and produce the same expected output.
 
