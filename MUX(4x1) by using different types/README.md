@@ -5,13 +5,16 @@ This repository contains a simple 4-to-1 Multiplexer designed using four differe
 ## 1. Concept: Block Diagram & Truth Table
 Before writing the code, here is the basic block diagram and truth table that define how the 4-to-1 MUX works:
 
-Truth Table :
+*Truth Table:*
 
 <img width="720" height="182" alt="image" src="https://github.com/user-attachments/assets/9cdf058e-146c-4a73-b030-e90a7764e013" />
 
 
-Block Diagram
+*Block Diagram:*
+
+
 <img width="181" height="163" alt="image" src="https://github.com/user-attachments/assets/6ea7d31e-620e-49ca-a6b8-d4125c6abc28" />
+
 
 ---
 
