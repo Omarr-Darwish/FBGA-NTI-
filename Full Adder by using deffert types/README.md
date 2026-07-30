@@ -17,5 +17,5 @@ A simulation waveform is also included below to verify that all designs work cor
 
 ## Simulation Waveform
 
-<img width="240" height="174" alt="image" src="https://github.com/user-attachments/assets/dca8c7ae-cb86-4150-a2c8-c2c864a1f948" />
+<img width="1289" height="174" alt="image" src="https://github.com/user-attachments/assets/cdd2c6fa-2e18-4934-b099-c454bd2de95b" />
 
