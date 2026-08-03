@@ -6,7 +6,7 @@ This module takes a 4-bit Gray code input, converts it into a standard 4-bit Bin
 ## 💡 7-Segment Layout
 The display consists of 7 LEDs labeled `a` through `g` arranged as follows:
 
-<img width="633" height="526" alt="image" src="https://github.com/user-attachments/assets/d3d686cf-2025-411f-a34e-86bab5d68f71" />
+<img width="316.5" height="263" alt="image" src="https://github.com/user-attachments/assets/d3d686cf-2025-411f-a34e-86bab5d68f71" />
 
 
 
