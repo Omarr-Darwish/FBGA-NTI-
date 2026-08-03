@@ -15,7 +15,7 @@ The Multiplexor acts as a digital switch. It takes multiple input buses and rout
 
 
 
-<img width="633" height="453" alt="image" src="https://github.com/user-attachments/assets/48e614bf-dc71-4eac-9bfa-2d5ef6672013" />
+<img width="444.1" height="377.5" alt="image" src="https://github.com/user-attachments/assets/48e614bf-dc71-4eac-9bfa-2d5ef6672013" />
 
 ---
 
