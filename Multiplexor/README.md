@@ -6,10 +6,16 @@ This repository contains a parameterized multi-bit Multiplexer designed to route
 The Multiplexor acts as a digital switch. It takes multiple input buses and routes exactly one of them to the output bus, depending on the value of the selector input.
 
 *Truth Table:*
-<img width="400" height="150" alt="MUX Truth Table" src="INSERT_IMAGE_URL_HERE" />
+
+
+
+<img width="667" height="389" alt="image" src="https://github.com/user-attachments/assets/8f2e5a15-7216-4972-8e11-6518e3c80079" />
 
 *Block Diagram:*
-<img width="300" height="250" alt="MUX Block Diagram" src="INSERT_IMAGE_URL_HERE" />
+
+
+
+<img width="633" height="453" alt="image" src="https://github.com/user-attachments/assets/48e614bf-dc71-4eac-9bfa-2d5ef6672013" />
 
 ---
 
